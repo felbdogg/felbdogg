@@ -24,8 +24,6 @@ Skills: PYTHON / REACT / JS / HTML / CSS / ANDROID / ECT.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/felbdogg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/1320.SD.C.22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://felbdogg.com)  
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
 <div align="center">
     <h2>Visit my new websites:</h2>
     <a href="https://cloud-data-ai.com/" style="margin-right: 20px;">

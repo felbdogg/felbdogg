@@ -8,7 +8,7 @@
 
 Freelance Web Developer Since 1998
 
-Skills: PYTHON / REACT / JS / HTML / CSS / ANDROID / ECT.
+Skills: C++ / PYTHON / REACT / JS / HTML / CSS / ANDROID / ECT.
 
 - 🔭 I’m currently working on felbdogg.ai. 
 - 🌱 I’m currently learning Computer Programming 

@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Felbdogg - AI Business Solutions</h1>
-    <p>Welcome to Felbdogg's GitHub! Discover cutting-edge AI solutions and web development expertise.</p>
+    <p>Discover cutting-edge AI solutions and web development expertise.</p>
 </div>
 
 ![Web Developer](https://felbdogg.com/assets/logo.png)
